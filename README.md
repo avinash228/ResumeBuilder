@@ -1,2 +1,2 @@
 # ResumeBuilder
-a template  to create resume
+# A Template to create Resume
